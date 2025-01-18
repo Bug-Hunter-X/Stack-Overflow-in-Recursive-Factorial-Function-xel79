@@ -1,0 +1,2 @@
+# Stack Overflow in Recursive Factorial Function
+This repository demonstrates a stack overflow error that can occur in a recursive factorial function when calculating the factorial of a large number in Hack. The bug is caused by the recursive nature of the function, which leads to excessive function calls and stack exhaustion. The solution is to implement an iterative approach, avoiding recursive calls.
